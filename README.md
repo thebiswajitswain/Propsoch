@@ -222,7 +222,7 @@ src
 
 ```bash
 git clone <repository-url>
-cd splitwise-mvp
+cd propsoch
 ```
 
 ---
