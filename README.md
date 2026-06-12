@@ -246,7 +246,7 @@ Create a `.env` file.
 ```env
 PORT=4000
 
-DATABASE_URL=localhost
+DATABASE_URL='mysql://root:<Your Password>@acela.proxy.rlwy.net:55101/railway'
 
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASSWORD=your_app_password
