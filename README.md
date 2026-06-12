@@ -246,11 +246,7 @@ Create a `.env` file.
 ```env
 PORT=4000
 
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=splitwise
-DB_USER=root
-DB_PASSWORD=your_password
+DATABASE_URL=localhost
 
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASSWORD=your_app_password
