@@ -211,7 +211,7 @@ src
 ├── utils
 │   └── monthlyReport.js
 │   └── nodemailer.js
-|
+|__
 ```
 
 ---
