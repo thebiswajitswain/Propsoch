@@ -208,14 +208,10 @@ src
 │   ├── expenseRoute.js
 │   └── balanceRoute.js
 │
-├── helpers
-│   └── balanceHelper.js
-│
-├── jobs
-│   └── monthlyBalanceCron.js
-│
-└── services
-    └── mailer.js
+├── utils
+│   └── monthlyReport.js
+│   └── nodemailer.js
+|
 ```
 
 ---
